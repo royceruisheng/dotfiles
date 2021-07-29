@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ruisheng.lim@gmail.com
+	name = Royce Lim
